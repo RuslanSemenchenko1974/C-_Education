@@ -1,0 +1,15 @@
+D:\Обучение\C_sharp_Lesson\Ex_003\bin\Debug\net6.0\Ex_003.exe
+D:\Обучение\C_sharp_Lesson\Ex_003\bin\Debug\net6.0\Ex_003.deps.json
+D:\Обучение\C_sharp_Lesson\Ex_003\bin\Debug\net6.0\Ex_003.runtimeconfig.json
+D:\Обучение\C_sharp_Lesson\Ex_003\bin\Debug\net6.0\Ex_003.dll
+D:\Обучение\C_sharp_Lesson\Ex_003\bin\Debug\net6.0\Ex_003.pdb
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.csproj.AssemblyReference.cache
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.AssemblyInfoInputs.cache
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.AssemblyInfo.cs
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.csproj.CoreCompileInputs.cache
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.dll
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\refint\Ex_003.dll
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.pdb
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\Ex_003.genruntimeconfig.cache
+D:\Обучение\C_sharp_Lesson\Ex_003\obj\Debug\net6.0\ref\Ex_003.dll
